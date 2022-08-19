@@ -1,8 +1,9 @@
 # Low-Level-Designs
 A repository dedicated to LLDs
 
+LLDs:
 
-[X] Parking Lot LLD 
+#1. Parking Lot LLD 
   - APIs
      - generateTicket()
      - generateBill()
