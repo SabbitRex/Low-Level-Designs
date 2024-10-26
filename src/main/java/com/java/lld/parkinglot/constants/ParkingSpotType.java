@@ -1,4 +1,4 @@
-package com.sabbitrex.lowleveldesigns.parkinglot.constants;
+package com.java.lld.parkinglot.constants;
 
 /**
  * @author Sharad
