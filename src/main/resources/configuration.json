@@ -1,0 +1,27 @@
+{
+  "snakes": [
+    {"head": 62, "tail": 5},
+    {"head": 33, "tail": 6},
+    {"head": 49, "tail": 9},
+    {"head": 88, "tail": 16},
+    {"head": 41, "tail": 20},
+    {"head": 56, "tail": 53},
+    {"head": 98, "tail": 64},
+    {"head": 93, "tail": 73},
+    {"head": 95, "tail": 75}
+  ],
+  "ladders": [
+    {"bottom": 2, "top": 37},
+    {"bottom": 27, "top": 46},
+    {"bottom": 10, "top": 32},
+    {"bottom": 51, "top": 68},
+    {"bottom": 61, "top": 79},
+    {"bottom": 65, "top": 84},
+    {"bottom": 71, "top": 91},
+    {"bottom": 81, "top": 100}
+  ],
+  "players": [
+    {"name": "Sharad", "position": 1},
+    {"name": "Sakshi", "position": 1}
+  ]
+}
